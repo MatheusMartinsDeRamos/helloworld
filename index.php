@@ -1,1 +1,3 @@
-HELLO WORLD
+<?php
+	HELLO WORLD
+?>
